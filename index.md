@@ -1,9 +1,9 @@
 # Andrew Gladden's first CS193 Lab
 
 
-*Dinging courts
-*Workout facilities
-*Residence halls
+- Dining courts
+- Workout facilities
+- Residence halls
 
 ## Welcome to GitHub Pages
 
@@ -22,9 +22,6 @@ Syntax highlighted code block
 ## Website files
 ### Website forum
 
-*Dinging courts
-*Workout facilities
-*Residence halls
 
 1. Numbered
 2. List
