@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Website files
 ### Website forum
 
-- Bulleted
-- List
+*Dinging courts
+*Workout facilities
+*Residence halls
 
 1. Numbered
 2. List
